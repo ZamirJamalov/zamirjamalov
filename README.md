@@ -23,7 +23,7 @@ Hello, I'm Zamir 👋
 
 I'm a dedicated **Fintech Developer** in the fintech sector, leveraging Go to create powerful financial solutions. My passion for programming drives me to explore new technological frontiers.
 
-Beyond coding, I'm a committed mentor and career advisor at **Div Academy** and **Updata**, where I help aspiring developers understand database programming and navigate their career paths.
+Beyond coding, I'm a committed **mentor** and **career advisor** at Div Academy and Updata, where I help aspiring developers understand database programming and navigate their career paths.
 
 My focus is on empowering the next wave of tech talent through education and guidance.
 
