@@ -28,14 +28,16 @@ Beyond coding, I'm a committed mentor and career advisor at **Div Academy** and 
 My focus is on empowering the next wave of tech talent through education and guidance.
 
 
-### Skills
-
-- ![Golang](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg) **Golang**
-- ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg) **SQL/PLSQL**
-- ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML**
-- ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS**
-- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript**
-
+💻 **Technical and Proficiencies**
+- Full-Stack Web Development
+- Database Design, Programming, and Optimization
+- Report Generation and Data Visualization
+- Software Development Lifecycle (SDLC)
+- Version Control
+- Problem-Solving
+- Communication and Collaboration
+- Continuous Learning
+ 
 
 💻 **My Work**
 
