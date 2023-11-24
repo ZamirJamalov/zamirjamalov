@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 Hello, I'm Zamir Jamalov 👋
+
 🌟 About Me
 
 I'm a passionate Golang Developer currently working in a fintech company, where I harness the power of Go to build robust and efficient financial solutions. My journey in tech has been driven by my love for programming and my desire to push the boundaries of what's possible.
