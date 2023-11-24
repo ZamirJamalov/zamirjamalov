@@ -39,18 +39,6 @@ My focus is on empowering the next wave of tech talent through education and gui
 - Continuous Learning
  
 
-💻 **My Work**
-
-    Golang Development: Crafting high-performance, scalable fintech apps.
-    SQL/PLSQL Mentoring: Guiding students in database programming and query optimization.
-    Career Advising: Helping tech career aspirants with resumes and interview preparation.
-
-🌱 **I'm Currently Learning**
-
-    Advanced Golang techniques for microservices architecture.
-    Latest trends in fintech and how they're shaping the future of finance.
-    Effective mentoring strategies to enhance my teaching approach.
-
 🤝 **How to Connect with Me**
 
     GitHub: https://github.com/ZamirJamalov
