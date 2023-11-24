@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-Hello, I'm Zamir Jamalov 👋
+Hello, I'm Zamir 👋
 
 🌟 About Me
 
