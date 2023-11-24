@@ -28,7 +28,7 @@ Beyond coding, I'm a committed mentor and career advisor at **Div Academy** and 
 My focus is on empowering the next wave of tech talent through education and guidance.
 
 
-💻 **Technical and Proficiencies**
+💻 **Technical and Professional Skills**
 - Full-Stack Web Development
 - Database Design, Programming, and Optimization
 - Report Generation and Data Visualization
