@@ -21,16 +21,13 @@ Hello, I'm Zamir Jamalov 👋
 
 🌟 About Me
 
-I'm a passionate Golang Developer currently working in a fintech company, where I harness the power of Go to build robust and efficient financial solutions. My journey in tech has been driven by my love for programming and my desire to push the boundaries of what's possible.
+I'm a dedicated Golang Developer in the fintech sector, leveraging Go to create powerful financial solutions. My passion for programming drives me to explore new technological frontiers. Beyond coding, I'm a committed mentor and career advisor at Div Academy and Updata, where I help aspiring developers understand database programming and navigate their career paths. My focus is on empowering the next wave of tech talent through education and guidance.
 
-But that's not all! I'm also deeply committed to mentoring and guiding aspiring developers. As a SQL/PLSQL Mentor at Div Academy and Updata, I help students master the intricacies of database management and programming. I believe in the power of education and am dedicated to sharing my knowledge and experience.
-
-In addition to mentoring, I serve as a Career Advisor at Div Academy. Here, I guide students through the maze of career planning, helping them land offers that resonate with their skills and passions. I'm all about empowering the next generation of tech professionals!
 💻 My Work
 
-    Golang Development: Specializes in creating high-performance, scalable applications for the fintech industry.
-    SQL/PLSQL Mentoring: Teach and mentor students in database programming, optimizing queries, and understanding complex data structures.
-    Career Advising: Provide guidance and advice to students preparing for tech careers, from resume building to interview prep.
+    Golang Development: Crafting high-performance, scalable fintech apps.
+    SQL/PLSQL Mentoring: Guiding students in database programming and query optimization.
+    Career Advising: Helping tech career aspirants with resumes and interview preparation.
 
 🌱 I'm Currently Learning
 
