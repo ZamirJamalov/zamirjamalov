@@ -21,11 +21,21 @@ Hello, I'm Zamir 👋
 
 🌟 **About Me**
 
-I'm a dedicated **Golang Developer** in the fintech sector, leveraging Go to create powerful financial solutions. My passion for programming drives me to explore new technological frontiers.
+I'm a dedicated **Fintech Developer** in the fintech sector, leveraging Go to create powerful financial solutions. My passion for programming drives me to explore new technological frontiers.
 
 Beyond coding, I'm a committed mentor and career advisor at **Div Academy** and **Updata**, where I help aspiring developers understand database programming and navigate their career paths.
 
 My focus is on empowering the next wave of tech talent through education and guidance.
+
+
+### Skills
+
+- ![Golang](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg) **Golang**
+- ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg) **SQL/PLSQL**
+- ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML**
+- ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS**
+- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript**
+
 
 💻 **My Work**
 
