@@ -45,4 +45,4 @@ My focus is on empowering the next wave of tech talent through education and gui
     LinkedIn: https://www.linkedin.com/in/zamirjamalov/
     Email: zamir.jamalov@gmail.com
 
-Feel free to reach out if you're interested in collaborating on Golang projects, seeking mentorship in SQL/PLSQL, or looking for career advice in tech!
+
